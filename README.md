@@ -7,7 +7,7 @@
 <p align='center'>
   <h3>🔭 I'm a full-stack web development enthusiast focused on building responsive and user-friendly applications.</h3>
   <br>
-  I work primarily with the MERN stack and enjoy developing complete end-to-end web solutions.
+  I work primarily with the  MERN & NextJS ,enjoy developing complete end-to-end web solutions.
 </p>
 <br><br>                                 
 <p align="center">
@@ -54,7 +54,7 @@
 <h2 align="center">📈 Most Used Languages</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKulal&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKulal&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Langs"/>
   </a>
 </p>
 
