@@ -1,9 +1,15 @@
 <!-- Typing SVG by DenverCoder1 (https://github.com/DenverCoder1/readme-typing-svg) -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FBBF24&height=2&section=header" width="100%"/>
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Adithya!;Welcome+to+my+profile!&colors=60A5FA;FBBF24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Adithya!;Welcome+to+my+profile!&multiColor=true" alt="Typing SVG" />
 </p>
 
-##  About Me
+
+
+### About Me
 
 <p align="left">
   🔭 I'm a <b>Full-Stack Web Developer</b> focused on building responsive, high-performance applications.
@@ -20,10 +26,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=Learning!;Building!;Improving!&colors=4ADE80;60A5FA;FB923C" alt="Typing SVG" />
 </p>
 
-## 🌐 Socials: 🤝 Let's connect!
+### 🌐 Socials: 🤝 Let's connect!
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adithyakulal615) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyakulal-) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@adithya_ku93186) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adithyakulal94@gmail.com) 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ###### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,8 +56,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
-<h2 align="center">🛠️ Skills & Technologies</h2>
+<h3 align="center">🛠️ Skills & Technologies</h3>
 <p align="center">
 <table align="center">
   <tr>
@@ -80,21 +87,24 @@
 </table>
 </p>
 
-<h2 align="center">📈 Most Used Languages</h2>
+<h3 align="center">📈 Most Used Languages</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdithyaKulal&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Contribution Streak</h2>
+<h3 align="center">📊 GitHub Contribution Streak</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=AdithyaKulal&theme=dark&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Contributions Graph</h2>
+---
+
+
+<h3 align="center">📊 GitHub Contributions Graph</h3>
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKulal&theme=material-palenight&hide_border=true" alt="GitHub Activity Graph"/>
@@ -106,4 +116,8 @@
 <p align='center'>
   <img src="https://komarev.com/ghpvc/?username=AdithyaKulal&label=Profile%20views&color=blue&style=flat" alt="AdithyaKulal" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FBBF24&height=2&section=header" width="100%"/>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
