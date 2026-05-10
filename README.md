@@ -1,14 +1,12 @@
 <!-- Typing SVG by DenverCoder1 (https://github.com/DenverCoder1/readme-typing-svg) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Adithya!;Welcome+to+my+profile!&color=FFFFFF;FBBF24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Adithya!;Welcome+to+my+profile!&colors=60A5FA;FBBF24" alt="Typing SVG" />
 </p>
 
 # 💫 About Me
 
 <p align="left">
-  <font size="4">
-    🔭 I'm a <b>Full-Stack Web Developer</b> dedicated to crafting responsive, high-performance, and user-centric applications. 
-  </font>
+  🔭 I'm a <b>Full-Stack Web Developer</b> focused on building responsive, high-performance applications.
 </p>
 
 <p align="left">
@@ -19,7 +17,7 @@
 
 ---                              
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Learning!;Building!;Improving!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=Learning!;Building!;Improving!&colors=4ADE80;60A5FA;FB923C" alt="Typing SVG" />
 </p>
 
 ## 🌐 Socials: 🤝 Let's connect!
@@ -52,8 +50,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-###### Other Skills
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
 <p align="center">
