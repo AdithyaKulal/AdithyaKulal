@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Adithya!;Welcome+to+my+profile!&colors=60A5FA;FBBF24" alt="Typing SVG" />
 </p>
 
-# 💫 About Me
+##  About Me
 
 <p align="left">
   🔭 I'm a <b>Full-Stack Web Developer</b> focused on building responsive, high-performance applications.
