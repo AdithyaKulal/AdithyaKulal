@@ -54,7 +54,7 @@
 <h2 align="center">📈 Most Used Languages</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKulal&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Langs"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdithyaKulal&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
   </a>
 </p>
 
